@@ -19,6 +19,8 @@
   "BACKEND_BRING_PERSONAL_VEHICLE_DESC": "Teleports your personal vehicle near you.",
   "BACKEND_BURST_VEHICLE_TIRES": "Burst Vehicle Tires",
   "BACKEND_BURST_VEHICLE_TIRES_DESC": "Pops all the vehicle's tires.",
+  "BACKEND_CAR_GODMODE": "Give Car Godmode",
+  "BACKEND_CAR_GODMODE_DESC": "Makes the vehicle invincible.",
   "BACKEND_CLOSE_VEHICLE_DOORS": "Close Vehicle Doors",
   "BACKEND_CLOSE_VEHICLE_DOORS_DESC": "Closes all vehicle doors.",
   "BACKEND_COMMAND": "Command",
